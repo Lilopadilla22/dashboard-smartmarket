@@ -1,23 +1,70 @@
-# grupo_10_SmartMarket
-Trabajo integrador final DH
+# Getting Started with Create React App
 
-Crearemos un ecommerce de un supermercado, dicha web ofrecerá todos los productos que podés llegar a encontrar en un local físico de manera online, tales como bebidas, frutas, verduras, galletas, leche, café, harina, fideos, arroz, etc. El sitio apuntara a un público mayor de 18 años con capacidad de comprar autónomamente.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Integrantes del Proyecto:
-Lenis Lípari, 25 años, de Córdoba, Argentina. Estudiante de Adm. de Empresas y programación, en su tiempo libre le gusta juntarse con amigas y jugar al fútbol.En un futuro se imagina trabajando de programadora para grandes proyectos.<br>
-Felipe Brocca, 25 años, de Trenque Lauquen, Argentina. Estudiante de Programación web full-stack. En su tiempo libre le gusta jugar al futbol y tocar la guitarra con amigos. En un futuro se imagina trabajando de programador en cualquier parte del mundo.<br>
-Lilia Padilla, 26 años, nacionalidad colombiana. Profesional en Economía y actualmente estudiante de programación. En su tiempo libre lo ocupa en la gimnasia y salir a playa. En estos momentos se encuentra trabajando para sus proyectos en estadisticas, bases de datos y programación. <br>
+## Available Scripts
 
+In the project directory, you can run:
 
-Sitios de Referencia:
-https://www.cotodigital3.com.ar/
-https://www.tiendasjumbo.co/supermercado
-https://www.exito.com/
-https://www.carulla.com/
-https://www.carrefour.com.ar/
-Elegimos éstos sitios como referencia por el parecido a los productos que ofrecen y que nos sirve como guía. Nos gusto la organización de los elementos de Carulla , la paleta de colores de jumbo y la facilidad de acceso a los ítems de exito. Con éstos sitios como ejemplos vamos a armar nuestro ecommerce de supermercado digital.
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Spring #2
-Tablero de Trabajo
-https://trello.com/invite/b/zUaTwT40/b7c1e25236359c57ee1950a681aff805/smartmarketdh
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
